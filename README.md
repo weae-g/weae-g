@@ -9,7 +9,7 @@
     🎮 Музыка 🐰 • Игры • Код • Искусство
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://tenor.com/ru/view/%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9-gif-16272948394593252157" height="40" />
 <br><br><br>
     
 [![]([https://img.shields.io/badge/osu!-ff66ab](https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white))](https://tg.com/weae_t)
