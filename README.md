@@ -12,8 +12,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://tg.com/weae_t)
-
+[![]([https://img.shields.io/badge/osu!-ff66ab](https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white))](https://tg.com/weae_t)
 </div>
 
 <details>
