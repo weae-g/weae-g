@@ -84,7 +84,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/saddnmm" target="_blank">
+<a href="https://github.com/weae-g" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -94,7 +94,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddnmm&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weae-g&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
@@ -109,7 +109,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=saddnmm&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=weae-g&&style=flat-square" align="center" />
 </div>  
   
 
