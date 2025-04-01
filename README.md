@@ -98,6 +98,12 @@
 <a href="https://github.com/weae-g" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<a href="https://telegram.com/weae_t" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://wa.me/+79869006006" target="_blank">
+<img src=https://img.shields.io/badge/whatsaap-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 
