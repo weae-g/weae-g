@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://tenor.com/ru/view/wind-breaker-wind-breaker-togame-anime-wave-anime-hello-togame-jo-gif-8582759802918432362" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Привет+привет;Я+люблю%2C+сладости%2C+и+я+увлекаюсь+творчетсвом+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
@@ -9,7 +9,7 @@
     🎮 Музыка 🐰 • Игры • Код • Искусство
 </pre>
 <br><br>
-<img src="https://tenor.com/ru/view/%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9-gif-16272948394593252157" height="40" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
 [![]([https://img.shields.io/badge/osu!-ff66ab](https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white))](https://tg.com/weae_t)
