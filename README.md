@@ -22,7 +22,7 @@
 
 ## Привет 👋
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif" width="100">
+  <img src="https://github.com/weae-g/weae-g/blob/main/assets/mid_eye.jpg" width="25%" align="center" />
 </div>
 <div align="center">Меня зовут Айнур, и я full-stack разработчик🐳</div>  
   
